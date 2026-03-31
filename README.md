@@ -2,7 +2,7 @@
 
 ## Student Details
 **Name:** Utkarsh Gupta  
-**Registration Number:** 24BSA10214  
+**Registration Number:** 24BSA10214 
 
 ## Chosen Software
 Apache HTTP Server (httpd)
